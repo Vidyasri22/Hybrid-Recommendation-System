@@ -76,10 +76,12 @@ The model outperformed the baseline recommendation system and met the competitio
 ## How to Run
 
 ### Requirements
-- Python 3.6  
-- Apache Spark 3.1.2  
-- XGBoost  
-- NumPy  
+- Python **3.6**
+- Apache Spark **3.1.2**
+- Hadoop **3.2** (bundled with Spark)
+- Java **JDK 1.8**
+- XGBoost
+- NumPy
 
 ### Command
 ```bash
