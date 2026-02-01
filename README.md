@@ -1,4 +1,4 @@
-# Yelp Rating Prediction using XGBoost and Spark
+# Hybrid Recommendation System on Yelp Ratings
 
 ## Overview
 This project implements a **Yelp rating prediction system** as part of a data mining competition. The objective is to predict star ratings for given user–business pairs while minimizing **Root Mean Squared Error (RMSE)**. The final solution improves upon a baseline recommendation system by using a **feature-rich supervised learning approach** combined with **Spark RDD-based data processing** for scalability.
